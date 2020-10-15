@@ -5,4 +5,4 @@ For use by admins of tes3mp <a href="https://github.com/TES3MP/CoreScripts">serv
 Modified by inpv for 0.7.0-alpha.<br><br>
 ## Installation:<br>
 1. Place the script into `server/scripts/custom` directory.<br>
-2. Add a line `require("custom.antiMainQuest")` in `server/scripts/customScripts.lua`
+2. Add a line `require("custom.antiMainQuest")` in `server/scripts/customScripts.lua`<br>
